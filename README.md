@@ -1,4 +1,4 @@
-
+A simple tool that allows you to place points on a layer, and connect each point with a box collider, of variable height, width and offsets for easy creation of elements such as walls (invisible or visible).
 
 Copyright 2025 Ryan Cassidy
 
